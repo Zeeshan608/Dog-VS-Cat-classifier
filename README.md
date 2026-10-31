@@ -19,9 +19,11 @@ Built with transfer learning (MobileNetV2), served with Flask, and deployed for 
 
 ## 📸 Preview
 
-> Add a screenshot of your app here. Upload the image to your repository and replace the line below.
+<div align="center">
 
-![App screenshot](screenshot.png)
+<img src="screenshot.png" alt="Dog vs Cat Classifier web app" width="600">
+
+</div>
 
 ---
 
@@ -58,7 +60,7 @@ Built with transfer learning (MobileNetV2), served with Flask, and deployed for 
 | Loss / Optimizer | Binary cross-entropy / Adam (learning rate 0.001) |
 | Training | Up to 5 epochs with early stopping |
 | Data split | 80% train, 10% validation, 10% test |
-| Test accuracy | 99.16%  |
+| Test accuracy | **99.16%** |
 
 ---
 
