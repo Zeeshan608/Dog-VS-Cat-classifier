@@ -58,7 +58,7 @@ Built with transfer learning (MobileNetV2), served with Flask, and deployed for 
 | Loss / Optimizer | Binary cross-entropy / Adam (learning rate 0.001) |
 | Training | Up to 5 epochs with early stopping |
 | Data split | 80% train, 10% validation, 10% test |
-| Test accuracy | **XX.XX%** *(replace with your result)* |
+| Test accuracy | 99.16%  |
 
 ---
 
